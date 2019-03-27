@@ -8,6 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Portfolio'
+      url: '/portfolio/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
@@ -18,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: ux designer // adjunct professor // speaker&nbsp;//&nbsp;blogger
+  footer_tagline: ux designer // adjunct professor // speaker
 
 grid_settings:
   overlay_opacity: 0.8
@@ -44,7 +46,7 @@ color_settings:
   link_color: '#33861E'
   accent_color: '#33861E'
   border_color: '#dddddd'
-  overlay_background_color: '#81C784' 
+  overlay_background_color: '#000' 
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'

@@ -13,8 +13,11 @@
 		}
 	}
 
-	p {
-
+	a{
+		border-bottom: 2px solid $link-color;
+	}
+	a:hover {
+		border-bottom: 2px solid $text-dark-color;
 	}
 }
 

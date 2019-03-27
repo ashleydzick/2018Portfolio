@@ -193,7 +193,17 @@
 		// Switch active link states
 		$('.active-link').removeClass('active-link');
 
-		$('a[href="' + navTarget + '"]').addClass('active-link');
+		var activeLinkNavTarget;
+		var navTargetSplit = navTarget.split('/');
+		if(navTargetSplit.length > 2){
+			activeLinkNavTarget = navTargetSplit[0] + "/" + navTargetSplit[1];
+		}
+		else
+		{
+			activeLinkNavTarget = navTarget;
+		}
+		Console.log(activeLinkNavTarget);
+		$('a[href="' + activeLinkNavTarget + '"]').addClass('active-link');
 
 
 

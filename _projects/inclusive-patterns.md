@@ -2,7 +2,7 @@
 title: 'Inclusive Mobile Design System'
 subtitle: 'Milwaukee Tool, Manufacturing & IoT'
 description: Design System and Mobile App Design for Milwaukee Tool.
-featured_image: '/images/portfolio/mfg/MKE Summary.png'
+featured_image: '/images/portfolio/mfg/derp.png'
 ---
 
 ![Example of Design System with iOS and Android](/images/portfolio/mfg/MKE Summary.png)
