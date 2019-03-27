@@ -2,7 +2,7 @@
 title: 'Apparel Builder Redesign'
 subtitle: 'eCommerce, Retail'
 description: Design Workshop and Mockups for Undisclosed Client.
-featured_image: '/images/portfolio/app/map.jpeg'
+featured_image: '/images/portfolio/app/demo.png'
 ---
 
 ![Example of Design System with iOS and Android](/images/portfolio/app/mocks.png)
