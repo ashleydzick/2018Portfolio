@@ -1,8 +1,8 @@
 ---
 title: 'Dashboard + Visualizations'
-subtitle: 'Insurance, Finance'
+subtitle: 'Insurance, Finance, Analytics, Design'
 description: Research-driven dashboard with data visualizations for a term life insurance provider.
-featured_image: ''
+featured_image: '/images/portfolio/dash/dash.png'
 ---
 
 ## Summary
