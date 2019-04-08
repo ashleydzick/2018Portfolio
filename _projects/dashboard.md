@@ -1,16 +1,14 @@
 ---
-title: 'Dashboard + Visualizations'
+title: 'Financial Dashboard'
 subtitle: 'Insurance, Finance, Analytics, Design'
 description: Research-driven dashboard with data visualizations for a term life insurance provider.
-featured_image: '/images/portfolio/dash/dash.png'
+featured_image: '/images/portfolio/dash/Tile.png'
 ---
 
 ## Summary
 The client, an established insurance provider, was actively looking to expand into new markets. After some market research, they discovered that only 10% of millennials reported they have enough life insurance to cover needs in case of death. This audience hasn’t responded to their traditional product lines, so something new was needed.
 
 The client wanted to build a data and research-driven dashboard and mobile app that they could leverage to target millennials. I worked with the client in 2018 through early 2019, assisting with their research strategy, IA, dashboard, and some basic data visualization. 
-
-Their next steps are developer implementation, followed by leveraging and expanding upon my design pattern library to create a mobile app.
 
 --- 
 
@@ -64,15 +62,11 @@ We were able to identify several areas where users became confused. Changes from
 * Wireframes
 * Usability Testing
 * Finalized Designs
-  
----
 
-### Data Visualization
-As part of an ongoing effort to learn more about coding practices for data visualizations, I used created minor data visualizations to demonstrate the dashboard capabilities. (These were intended for my own learning and to be able to explain the dashboard better — they did not make it into the final product.)
-
-* R Studio
-* Information Design
-* Graphic Design
+<div class="gallery half-gal" data-columns="1">
+	<img src="/images/portfolio/dash/Money.png"/>
+    <img src="/images/portfolio/dash/Money2.png"/>
+</div>
 
 ---
 

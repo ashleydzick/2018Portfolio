@@ -1,5 +1,5 @@
 ---
-title: 'Apparel Builder Redesign'
+title: 'Workshop and App Design'
 subtitle: 'eCommerce, Retail, Heuristic Evaluation, Mobile Mockups'
 description: Design Workshop and Mockups for Undisclosed Client.
 featured_image: '/images/portfolio/app/cover.png'
