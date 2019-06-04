@@ -10,8 +10,14 @@
 	max-width: 50%;
 	margin: 20px auto;
 
-	@include mq(tabletp) {
+	@include mq(phonel) {
+		margin: 20px auto;
+		max-width:90%;
+	}
+
+	@include mq(tabletp){
 		margin: 30px auto;
+		max-width:75%;
 	}
 
 	@include mq(laptop) {
