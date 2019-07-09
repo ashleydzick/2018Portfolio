@@ -10,9 +10,9 @@
 
 $break-phonel: 400px;
 $break-tabletp: 768px;
-$break-tabletl: 1024px;
-$break-laptop: 1220px;
-$break-desktop: 1420px;
+$break-tabletl: 900px;
+$break-laptop: 1090px;
+$break-desktop: 1120px;
 
 @mixin mq($media) {
 	@if $media == phonel {
